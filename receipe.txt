@@ -1,0 +1,14 @@
+Dish:
+cake bake
+
+cooking ingrediants:
+flour
+coco powder
+egg
+
+steps:
+mix the ingrediants
+bake it
+
+cake ready
+
